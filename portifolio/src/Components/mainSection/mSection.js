@@ -100,13 +100,13 @@ export function Mother() {
                 </ul>
             </section>
             <section className="contact" ref={ref4}>
-                <img src={linkedin} className="iconL" width="50px" height="50px"/>
+                <img alt="" src={linkedin} className="iconL" width="50px" height="50px"/>
                 <h2 className="linkedin"><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/walter-siqueira">my linkedin</a></h2>
-                <img src={twitter} className="iconT" width="50px" height="50px"/>
+                <img alt="" src={twitter} className="iconT" width="50px" height="50px"/>
                 <h2 className="twitter"><a target="_blank" rel="noopener noreferrer" href="https://twitter.com/Walter__BS">my twitter</a></h2>
-                <img src={email} className="iconE" width="50px" height="50px"/>
+                <img alt="" src={email} className="iconE" width="50px" height="50px"/>
                 <h2 className="email"><a href="mailto:walterbarbozasiqueira@gmail.com" target="_blank">my email</a></h2>
-                <img src={github} className="iconG" width="50px" height="50px"/>
+                <img alt="" src={github} className="iconG" width="50px" height="50px"/>
                 <h2 className="github"><a target="_blank" rel="noopener noreferrer" href="https://github.com/WalterSiqueira">my github</a></h2>
                 
             </section>
